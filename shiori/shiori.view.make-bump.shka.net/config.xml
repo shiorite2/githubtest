@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "net.shka.make-bump"
+    version   = "1.0.0">
+
+<name>PhoneGap Build Application</name>
+
+<preference name="phonegap-version" value="1.8.1" />
+
+<description>
+Develop Make Bump
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Your Name
+</author>
+
+<preference name="permissions" value="none"/>
+
+<feature name="http://api.phonegap.com/1.0/geolocation"/>
+
+</widget>

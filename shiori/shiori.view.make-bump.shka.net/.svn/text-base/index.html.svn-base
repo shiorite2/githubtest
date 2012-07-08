@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>fake bump</title>
+<meta name="viewport" content="width=device-width, initial-scale = 1">
+<link rel="stylesheet" href="css/content.css">
+</head>
+<body>
+    <header>
+        <h1>Fake Bump</h1>
+    </header>
+    <section>
+    	<h1>送信、受信選択</h1>
+        <p>送信か受信かを選択してください</p>
+        <a href="send.html" data-role="button">送信</a>
+        <a href="receive.html" data-role="button">受信</a>
+    </section>
+    <footer>
+    	<small>&copy;tuda college</small>
+    </footer>
+</body>
+</html>

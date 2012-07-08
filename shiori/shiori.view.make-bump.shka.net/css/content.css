@@ -1,0 +1,10 @@
+/* CSS Document */
+section > p {
+	color:#FF0000;
+}
+
+section a {
+	display:block;
+	margin-bottom:10px;
+	text-decoration:none;
+}

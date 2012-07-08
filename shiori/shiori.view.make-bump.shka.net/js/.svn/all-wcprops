@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/make-bump/!svn/ver/31/trunk/views/js
+END
+gps.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/make-bump/!svn/ver/15/trunk/views/js/gps.js
+END
+send.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/make-bump/!svn/ver/31/trunk/views/js/send.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/make-bump/!svn/ver/10/trunk/views/js/jquery.js
+END
+cordova-1.9.0.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/make-bump/!svn/ver/10/trunk/views/js/cordova-1.9.0.js
+END
+receive.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/make-bump/!svn/ver/31/trunk/views/js/receive.js
+END

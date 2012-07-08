@@ -1,0 +1,6 @@
+<?php
+class index
+{
+  $Con = new Control();
+  $Con->action();
+}
